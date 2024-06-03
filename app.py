@@ -17,7 +17,7 @@ import xgboost as xgb
 import streamlit as st
 
 import sklearn
-from sklearn.metrics import r2_score
+
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics.pairwise import rbf_kernel
 from sklearn.base import BaseEstimator, TransformerMixin
