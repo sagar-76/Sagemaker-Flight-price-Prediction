@@ -1,5 +1,4 @@
 import os
-import convertin_dur_tomins
 import pickle
 
 import warnings
